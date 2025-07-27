@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm VIJAY KUMAR.</h1>
-<h3 align="center">A passionate about Embedded_AI & Robotics.</h3>
+<h3 align="center"> I am passionate about Embedded_AI & Robotics.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vijay080604&label=Profile%20views&color=0e75b6&style=flat" alt="vijay080604" /> </p>
 
